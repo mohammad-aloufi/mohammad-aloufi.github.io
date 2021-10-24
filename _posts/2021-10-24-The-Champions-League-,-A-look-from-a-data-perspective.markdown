@@ -1,6 +1,5 @@
 ---
 layout: post
-title: The Champions League: A look from a data perspective
 categories: Data cience
 image: /assets/images/chelsea-celebrating-champions-league.jfif
 ---
