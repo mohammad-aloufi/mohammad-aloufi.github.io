@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: Data cience
 image: /assets/images/chelsea-celebrating-champions-league.jfif
 ---
 ## Introduction.
