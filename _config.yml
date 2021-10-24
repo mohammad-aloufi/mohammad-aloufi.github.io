@@ -20,8 +20,8 @@
 
 title: Mohammad Aloufi's Blog
 email: moh8281@gmail.com
-# description: Where my thoughts belong
-# baseurl: 
+description: Where my thoughts belong
+baseurl: mohammad-aloufi.github.io
 url: "https://mohammad-aloufi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mhd_aloufi
 github_username:  mohammad-aloufi
